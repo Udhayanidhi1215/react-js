@@ -1,0 +1,25 @@
+/* 
+.App{
+  
+  position: fixed ; 
+  top: 50%;
+  left: 50%;
+  background:rgb(161, 219, 236);
+  padding: 40px;
+  transform: translate(-50%, -50%);
+  border-radius: 20px;
+  box-shadow: 14px 14px 20px gray;
+  width: 200px;
+  height: 300px;
+  
+
+  
+} */
+#sub{
+  background-color: green;
+  color: white;
+
+}
+#bg{
+  text-align: center;
+}
