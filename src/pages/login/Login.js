@@ -5,7 +5,7 @@ import './login.css'
 
 const Login = () => {
   return (
-     <Layout>
+     <Layout data="Contact">
       <div className='bg' >
       <div  className="App"  >
        <h1>CONTACT DETAILS</h1>

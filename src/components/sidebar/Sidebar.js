@@ -11,8 +11,8 @@ const Sidebar = () => {
             <button onClick={'/login'}>Contact</button> */
     }
             
-                    <ul > 
-                        <li><Link to='/' >Home</Link></li>
+                    <ul className='side' > 
+                        <li><Link to='/'  >Home</Link></li>
                         <li><Link to='/about' >About</Link></li>
                         <li><Link to='/login' >Contact</Link></li>
                         
