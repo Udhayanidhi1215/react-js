@@ -1,7 +1,13 @@
 .test {
-  background:rgb(201, 238, 245);
+  background:rgb(8, 8, 8);
   height: 100vh;
-  width: 300px;
+  width: 200px;
+  text-align: center;
    
+}
+.img{
+  height: 130px;
+  width: 150px;
+ 
 }
 
