@@ -4,7 +4,7 @@ import "./login.css";
 
 const Login = () => {
   return (
-    <Layout data2="Contact">
+    <Layout data="Contact" color="white">
       <div className="bg">
         <div className="App">
           <h1>CONTACT DETAILS</h1>

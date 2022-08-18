@@ -4,14 +4,14 @@ import React from "react";
 import Topbar from "../topbar/Topbar";
 import Sidebar from "../sidebar/Sidebar";
 
-const Layout = ({ children, data, data1, data2 }) => {
+const Layout = ({ children, data,color}) => {
   return (
     <div style={{ display: "flex", width: "100%" }}>
       <div>
         <Sidebar />
       </div>
       <div>
-        <Topbar data1={data} data2={data1} data3={data2} />
+        <Topbar data1={data} textcolor={color} />
         {children}
       </div>
     </div>
